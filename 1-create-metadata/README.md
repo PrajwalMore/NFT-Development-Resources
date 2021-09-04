@@ -4,4 +4,5 @@ manually creating these files is not easy. This folder contains scripts/files fo
 
 ----
 ### Direction to use:
-1. create all of the above these in metadata directory.
+1. create "metadata" folder in your project directory for storing created metadata files.
+2. Execute truffle command `> exec createMetadata.js`
